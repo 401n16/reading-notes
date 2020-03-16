@@ -1,4 +1,5 @@
 # CLASS 01 READING DISCUSSION
+## Node Ecosystem, TDD, CI/CD
 
 #### 1. Why would you want to run JavaScript code outside of a browser?
     - Running JavaScript outside of a browser allows you to do more than simple websites, such as:
