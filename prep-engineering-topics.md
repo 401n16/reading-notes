@@ -20,6 +20,8 @@
 
 # Article 2 - Pretend Your Time is Worth $1,000/Hour and You’ll Become 100x More Productive
 “People are unhappy in large part because they are confused about what is valuable.” -William Irvine
+
 “The most successful people I know are not busy. They’re focused.” -Jeff Goins
 
 # Article 3 - How to think like a programmer — lessons in problem solving
+The best way to solve problems involves a) having a framework and b) practicing it.
