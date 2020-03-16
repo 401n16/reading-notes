@@ -1,5 +1,5 @@
 # CLASS 02 READING DISCUSSION 
-### Classes, Inheritance, Function
+## Classes, Inheritance, Function
 
 #### 1. What is one benefit of JavaScript not enforcing type?
     - 
