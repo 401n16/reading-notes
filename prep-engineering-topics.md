@@ -30,7 +30,7 @@ The best way to solve problems involves **a) having a framework** and **b) pract
 2. **Plan** the solution.
 3. **Divide** the problem into sub-problems, then connect the dots.
 4. If you're **stuck**:
-    a. Debug
-    b. Reassess
-    c. Research
+       a. Debug
+       b. Reassess
+       c. Research
 
