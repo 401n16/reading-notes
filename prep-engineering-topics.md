@@ -24,4 +24,4 @@
 “The most successful people I know are not busy. They’re focused.” -Jeff Goins
 
 # Article 3 - How to think like a programmer — lessons in problem solving
-The best way to solve problems involves a) having a framework and b) practicing it.
+The best way to solve problems involves **a) having a framework** and **b) practicing it**.
