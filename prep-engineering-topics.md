@@ -38,30 +38,20 @@ The best way to solve problems involves **a) having a framework** and **b) pract
 - a questioning process designed to drill down into the details of a problem or a solution and peel away the layers
 ## Examples of five whys and five hows are below.
 
-Five whys of less vigorous exercise:
+### Five whys of less vigorous exercise:
 | --- | --- |
-
 | Too much TV and video games | Why? |
-
 | Few community-sponsored recreation programs | Why? |
-
 | No family recreational activities | Why? |
-
 | No safe play area | Why? |
-
 | Lack of resources | Why? |
 
 
-Five hows of more vigorous exercise:
+### Five hows of more vigorous exercise:
 | --- | --- |
-
 | Less TV and video games | How? |
-
 | More community-sponsored recreation programs | How? |
-
 | More family recreational activities | How? |
-
 | Safe play areas | How? |
-
 | Additional resources | How? |
 
