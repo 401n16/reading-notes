@@ -36,7 +36,7 @@ The best way to solve problems involves **a) having a framework** and **b) pract
 
 # Article 4 - Five Whys and Five Hows
 - a questioning process designed to drill down into the details of a problem or a solution and peel away the layers
-## Examples of five whys and five hows are below.
+## Examples of five whys and five hows:
 
 | Five whys of less vigorous exercise: | |
 | --- | --- |
