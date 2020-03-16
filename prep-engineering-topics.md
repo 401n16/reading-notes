@@ -25,3 +25,12 @@
 
 # Article 3 - How to think like a programmer — lessons in problem solving
 The best way to solve problems involves **a) having a framework** and **b) practicing it**.
+## The Framework
+1. **Understand** exactly what is being asked.
+2. **Plan** the solution.
+3. **Divide** the problem into sub-problems, then connect the dots.
+4. If you're **stuck**:
+    a. Debug
+    b. Reassess
+    c. Research
+
