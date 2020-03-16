@@ -39,6 +39,7 @@ The best way to solve problems involves **a) having a framework** and **b) pract
 ## Examples of five whys and five hows are below.
 
 ### Five whys of less vigorous exercise:
+|  |
 | --- | --- |
 | Too much TV and video games | Why? |
 | Few community-sponsored recreation programs | Why? |
@@ -48,6 +49,7 @@ The best way to solve problems involves **a) having a framework** and **b) pract
 
 
 ### Five hows of more vigorous exercise:
+|  |
 | --- | --- |
 | Less TV and video games | How? |
 | More community-sponsored recreation programs | How? |
