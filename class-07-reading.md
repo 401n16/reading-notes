@@ -4,17 +4,15 @@
 #### 1. What code does the server actually run?
     - 
 #### 2. What Express/HTTP operations map to CRUD operations?
-    - 
+    - Create = Post
+    - Read = Get
+    - Update = Put
+    - Delete = Delete
 #### 3. What does res.send() do?
-    -  
-    - 
-        - 
-        - 
-        - 
+    - res.send() sends something as the response to the client
 #### 4. What is the order of operations for the three categories of middleware (handler, application, route)?
-    - 
-        - 
-        - 
-        - 
+    - route
+    - handler
+    - application
 #### 5. What is the parameter next used for?
     - 
