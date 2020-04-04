@@ -13,6 +13,6 @@
 #### 4. What is the order of operations for the three categories of middleware (handler, application, route)?
     route
     handler
-    -pplication
+    application
 #### 5. What is the parameter <span style="background-color: #FFFF00">next</span> used for?
     calls the next middleware in the chain
