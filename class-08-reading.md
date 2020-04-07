@@ -7,4 +7,5 @@
     Express executes code from top to bottom.
     Though Application Middleware is typically meant to be run before Handler Middleware, you can change this by moving an Application Middleware assignment after a Handler Middleware assignment. 
 #### 3. Why do we use a model class (with *create()*, *read()*, etc.) instead of directly calling MongoDB operations (such as *save()*, *find()*, etc.) within our Express route handlers?
+    Mongoose schema validation occurs with the Mongo Model.
     
